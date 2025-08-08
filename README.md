@@ -1,6 +1,6 @@
 ## Hello ✌🏻
 
-My name is Gabriela Almeida, I'm a 28 years old software developer with most 7 years of experience.
+My name is Gabriela Almeida, I'm a 28 years old software developer with most 8 years of experience.
 
 About me:
 
