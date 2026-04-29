@@ -1,11 +1,9 @@
 # Gabriela Almeida
-**Senior Software Engineer** · Rio de Janeiro, Brazil
-
-With over 8+ years of experience building scalable systems, specializing in frontend architecture with React and TypeScript in distributed environments. I focus on performance, reliability, and user experience, leading frontend initiatives and architectural decisions in large-scale applications. I collaborate closely with backend and cloud teams using .NET and Azure to optimize APIs and system communication. Passionate about solving complex challenges in performance, scalability, and frontend systems.
+Senior Software Engineer with 8+ years of experience building scalable systems, specializing in frontend architecture with React and TypeScript for large-scale, distributed applications. I focus on performance, reliability, and user experience, leading frontend initiatives and architectural decisions. Experienced in integrating frontend with .NET and Azure to optimize system performance and communication across microservices environments.
 
 ## Skills
 
-[![Skills](https://skillicons.dev/icons?i=ts,js,react,redux,angular,jest,tailwind,html,css,cs,dotnet,azure,kubernetes,docker)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,redux,jest,ts,dotnet,azure)](https://skillicons.dev)
 
 ## Contact Info
   [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/almeidagabrielads/)
